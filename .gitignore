@@ -1,2 +1,4 @@
 ## Try leave taobao files:
-!script/taobao/*
+
+dir_a/*
+script/taobao/*
